@@ -1,0 +1,40 @@
+* Software Development Overview
+** General
+
+*** Definition
+Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software. Software itself is the set of instructions or programs that tell a computer what to do. It is independent of hardware and makes computers programmable.
+
+- Software: a set of instructions for computer(s)
+- Development: creating, designing, deploying and supporting
+
+
+*** History & Future
+Ref to [[https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_ph%E1%BA%A7n_m%E1%BB%81m][wikipedia]]
+
+
+*** Category
+- *Application development*: provides functionality for users to perform tasks (office productivity suites, media players, social media tools, and booking systems). Applications can run on the user’s own personal computing equipment or on servers hosted in the cloud or by an internal IT department. Media streaming development is one example of application development for the cloud.
+- *System software development*: to provide the core functions such as operating systems, storage systems, databases, networks, and hardware management.
+- *Development tools:* that provide software developers with the tools to do their job, including code editors, compilers, linkers, debuggers, and test harnesses.
+- *Embedded software development*: that creates the software used to control machines and devices, including automobiles, phones, and robots.
+
+*** Career
+**** Job titles
+- Front-End Developer/Engineer
+- Back-End Developer/Engineers
+- Full-Stack Engineer
+- Mobile App Developer
+- Graphics Engineer
+- Game Engineer
+- Data Engineer
+- DevOps Engineer
+- Embedded Systems Engineer
+- Security Engineer
+
+**** Career path
+- Junior Software Engineer
+- Senior Software Engineer
+- Tech Lead
+- Team Manager
+- Technical Architect
+- Chief Technology Officer
