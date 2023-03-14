@@ -1,0 +1,32 @@
+* Web Development & Web Developer
+*** History
+**** The Old Web
+The idea of the internet had existed in some form for at least a half a century before it finally became a common household utility in the 1990s. Conceived in the 1980s, the World Wide Web gained significant traction with the introduction of the Mosaic browser in 1993.
+
+Shortly thereafter, businesses began recognizing the web’s commercial potential, as network infrastructure grew to accommodate what would prove to be a massive influx of online activity.
+
+In 1989, Tim Berners-Lee (then a fellow at the CERN Laboratory in Europe) outlined his concept of a computer platform that could facilitate collaboration among researchers who are based in different parts of the world. This led to the invention of the Hypertext Markup Language (HTML) in 1990. Strongly based on the Standard Generalized Markup Language (SGML), HTML became the fundamental building block of the World Wide Web, and remains at the core of its coding and infrastructure.
+
+*** Definition
+Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites.
+
+The word Web Development is made up of two words, that is:
+- Web: It refers to websites, web pages or anything that works over the internet.
+- Development: It refers to building the application from scratch.
+
+Web Development can be classified into two ways:
+- Frontend Development
+- Backend Development
+
+A web developer is a programmer who develops World Wide Web applications using a client–server model. The applications typically use HTML, CSS, and JavaScript in the client, and any general-purpose programming language in the server. HTTP is used for communications between client and server. A web developer may specialize in client-side applications (Front-end web development), server-side applications (back-end development), or both (full-stack development).
+
+
+*** Web Technology
+- Browsers.
+- HTML and CSS.
+- Programming Languages.
+- Frameworks.
+- Web Servers.
+- Databases.
+- Protocols.
+- Lastly, data Formats.
